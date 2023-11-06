@@ -2,6 +2,9 @@
 
 This is a project for generating fashion item images using a Generative Adversarial Network (GAN). In this project, we will use TensorFlow to implement and train a GAN model for generating fashion item images from random noise.
 
+![Generated Image](gen_img.png)
+
+
 ## Prerequisites
 
 Before running the code, ensure you have the following prerequisites:
