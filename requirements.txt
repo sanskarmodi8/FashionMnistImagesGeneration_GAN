@@ -1,0 +1,6 @@
+tensorflow
+numpy
+pandas
+matplotlib
+tensorflow-datasets
+ipywidgets
